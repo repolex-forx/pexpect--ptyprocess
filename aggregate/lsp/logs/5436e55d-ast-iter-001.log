@@ -1,0 +1,7 @@
+[2026-09-20T04:21:28Z] === AST ITERATION 1 START | repo=pexpect/ptyprocess sha=5436e55d ===
+[2026-09-20T04:21:28Z] [iter=1] PHASE START: ast repo=pexpect/ptyprocess sha=5436e55d
+[2026-09-20T04:21:28Z] [iter=1] Building AST aggregate chunks
+[2026-09-20T04:21:32Z] [iter=1] AST chunks built count=1 triples=43102
+[2026-09-20T04:21:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5436e55d81d114edef254e79e3478306a1489da1/.complete
+[2026-09-20T04:21:32Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-09-20T04:21:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
